@@ -49,5 +49,5 @@ Les contributions sont les bienvenues ! Forkez le projet et ouvrez une pull requ
 
 ---
 
-📧 **Contact** : [Ton email ou lien GitHub](https://github.com/ton-username)
+📧 **Contact** :  ronaldo.adikpeto@etu.u-bordeaux.fr | [LinkedIn](https://www.linkedin.com/in/ronaldo-adikpeto-5a02b8204) | [GitHub](https://github.com/pinhero)
 
