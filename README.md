@@ -13,8 +13,7 @@
 ✔️ **Affichage et sauvegarde** de l’image finale.  
 
 ## 🛠 Technologies utilisées
-- **Python** 🐍  
-- **OpenCV** 👁  
+- **Python** 🐍   
 - **RawPy** 📷  
 - **Matplotlib** 📊  
 - **NumPy** 🔢  
@@ -27,11 +26,11 @@ cd raw-image-pipeline
 ```
 ### 2️⃣ Installer les dépendances
 ```bash
-pip install opencv-python rawpy numpy matplotlib
+pip install scipy PIL rawpy numpy matplotlib
 ```
 ### 3️⃣ Exécuter le script
 ```bash
-python main.py chemin/vers/ton/image.dng
+python projet.py chemin/vers/ton/image.dng -o output.png
 ```
 
 ## 📸 Exemple d’Image Avant / Après
