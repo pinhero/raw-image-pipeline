@@ -36,7 +36,7 @@ python projet.py chemin/vers/ton/image.dng -o output.png
 ## 📸 Exemple d’Image Avant / Après
 | **RAW (DNG)** | **Image reconstruite** |
 |--------------|----------------------|
-| ![RAW Image](https://github.com/pinhero/raw-image-pipeline/blob/main/Images/colorchart-iphone7plus-cloudy.dng) | ![Processed Image](https://github.com/pinhero/raw-image-pipeline/blob/main/Images/output.png) |
+| ![RAW Image](https://github.com/pinhero/raw-image-pipeline/blob/main/Images/colorchart-iphone7plus-cloudy.png) | ![Processed Image](https://github.com/pinhero/raw-image-pipeline/blob/main/Images/output.png) |
 
 ## 💡 Améliorations futures
 - Ajouter un **mode HDR** 📷  
