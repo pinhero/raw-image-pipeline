@@ -48,14 +48,14 @@ Les contributions sont les bienvenues ! Forkez le projet et ouvrez une pull requ
 
 ---
 
-##🧑‍💻Auteurs
+## 🧑‍💻Auteurs
 
 - **Ronaldo Adikpeto**
 - **Ayoub Belachmi**
 - **Mohamed Taga**
 - **Iba Wade**
 
-##🧑‍💼Encadrant
+## 🧑‍💼Encadrant
 
 - **Antoine Guennec**
 
