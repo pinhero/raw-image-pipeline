@@ -48,5 +48,17 @@ Les contributions sont les bienvenues ! Forkez le projet et ouvrez une pull requ
 
 ---
 
+##🧑‍💻Auteurs
+
+- **Ronaldo Adikpeto**
+- **Ayoub Belachmi**
+- **Mohamed Taga**
+- **Iba Wade**
+
+##🧑‍💼Encadrant
+
+- **Antoine Guennec**
+
+
 📧 **Contact** :  ronaldo.adikpeto@etu.u-bordeaux.fr | [LinkedIn](https://www.linkedin.com/in/ronaldo-adikpeto-5a02b8204) | [GitHub](https://github.com/pinhero)
 
